@@ -30,7 +30,7 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "node server.j",
+    "start": "node server.js",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
